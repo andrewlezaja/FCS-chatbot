@@ -2,7 +2,7 @@
 
 **A tool-using LLM agent that answers technicians' equipment questions in plain English, grounded in a plant's maintenance records and machine manuals, and designed above all not to make things up.**
 
-> **Case study.** This was built during my AI Engineer internship at a manufacturing company and deployed for staff use. The original code and data are proprietary, so this repo documents the problem, architecture, evaluation approach, and design decisions. A public reimplementation with a synthetic dataset is in progress.
+> **Case study.** This was built during my AI Engineer internship at Francis Cable Systems, a manufacturing company, and deployed for staff use. The original code and data are proprietary, so this repo documents the problem, architecture, evaluation approach, and design decisions.
 
 ---
 
