@@ -16,3 +16,9 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# Personal notes
+maintenance-chatbot-code-walkthrough.md
+
+# macOS
+.DS_Store
