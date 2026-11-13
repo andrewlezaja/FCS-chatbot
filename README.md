@@ -119,7 +119,3 @@ Python · Anthropic API (tool use, prompt caching) · SQLite + FTS5 · Streamlit
 | Live refresh | Two-tier, from the MaintainX API | Disabled |
 
 The code is the same; `chatbot.py` serves `db/mx_data.db` when it exists and falls back to `db/demo.db` otherwise (override with `MX_DB_PATH`).
-
-## What's next
-
-See **[docs/ROADMAP.md](docs/ROADMAP.md)**: automated eval scoring in CI, unit tests for the deterministic layer, OCR for scanned manuals, and usage logging to grow the eval set from real questions.
